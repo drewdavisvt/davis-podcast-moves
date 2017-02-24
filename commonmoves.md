@@ -18,18 +18,18 @@ The storage of all Rogan's podcasts is set-up as a typical YouTube channel. Ther
 -about  
 
 ####Host  
--Joe Rogan hosts every episode
+-Joe Rogan hosts every episode and has at least one guest (two for these two episodes).
 
 ####Guest
-Brendan Schaub and Eddie Bravo are the guests on each episode (though the Joey Diaz is an additional guest on episode 893).
+Brendan Schaub and Eddie Bravo are the guests on each of these episodes (though the Joey Diaz is an additional guest on episode 893).
 
-####Intro slide  
+####Intro
 -Both podcast had the same logo of a painted face of Joe Rogan spinning as you hear the host speaking before the video is up to open the podcast.  
 
--Video is then added as Rogan welcomes his guests by name.
+-Rogan now welcomes his guests by name, starting the podcast.
 
 ####Common theme, getting off topic
--Both podcasts see the group talk in a very conversational tone  
+-Both podcasts see the group talk in a very conversational tone.
 
 -Both see the guests talk about fighting in some regard from the very beginning. Episode 890 has the viewer hearing how many fighters are bland now-a-days before later showing actual Boxing/UFC fights, and installment 893 describes the shocking Rhonda Rousey loss, showing the fight to viewers.  
 
@@ -67,9 +67,9 @@ Each video of Going In Raw starts the same way:
 -The audio clip reads:
 >"Be apart of the best pro wrestling podcast today by supporting the Going In Raw patron. You can enjoy the live taping of the show, exclusive merchandise and patron only episode side and so much more. Support Going In Raw today; click the link in the description."  
 
--From one sound byte to another, the viewer now hears and sees multiple WWE Superstars stating one is watching "Going in Raw" and or "Smackdown Live (another show owned by WWE)," as a joke. After the audio and video fades out, now one sees a Steve and Larson in a live video podcast.  
+-From one sound byte to another, the viewer now hears and sees multiple WWE Superstars stating one is watching "Going in Raw" and or "Smackdown Live (another show owned by WWE)," as a joke. After the audio and video fades out, now one sees a Steve and Larson in a live set-up.  
 
--Steve then lists all the places their podcasts are available such as Soundcloud, Facebook, etc and listing benefits of being a patron, before moving into the new content of the show.
+-Steve then lists all the places their podcasts are available such as Soundcloud, Facebook, etc., listing benefits of being a patron, and then moving into the new content of the show.
 
 ####Flow
 -Content of the show is organized as the two men recap and offer insight of the past show, whether it is Raw for episode 170 or Smackdown for episode 171.  
