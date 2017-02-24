@@ -20,8 +20,8 @@ The storage of all Rogan's podcasts is set-up as a typical YouTube channel. Ther
 ####Host  
 -Joe Rogan hosts every episode and has at least one guest (two for these two episodes).
 
-####Guest
-Brendan Schaub and Eddie Bravo are the guests on each of these episodes (though the Joey Diaz is an additional guest on episode 893).
+####Guest  
+-Brendan Schaub and Eddie Bravo are the guests on each of these episodes (though the Joey Diaz is an additional guest on episode 893).
 
 ####Intro
 -Both podcast had the same logo of a painted face of Joe Rogan spinning as you hear the host speaking before the video is up to open the podcast.  
