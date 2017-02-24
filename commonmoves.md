@@ -19,22 +19,22 @@ The storage of all Rogan's podcasts is set-up as a typical Youtube channel. Ther
 
 ####Host  
 -Joe Rogan hosts every episode with Brendan Schaub and Eddie Bravo are guests on each episode
-(though the Joey Diaz is an additional guest on episode 893)
+(though the Joey Diaz is an additional guest on episode 893).
 
 ####Intro slide  
--Both podcast had the Joe Rogan Podcast logo of a painted face of Joe Rogan spinning as you hear the host speaking before video is up to open the podcast.  
+-Both podcast had the same logo of a painted face of Joe Rogan spinning as you hear the host speaking before video is up to open the podcast.  
 
--Video is then added as Rogan names and welcomes his guests by name.
+-Video is then added as Rogan welcomes his guests by name.
 
 ####Common under theme, getting off topic
 -Both podcasts see the group talk in a very conversational tone  
 
--Both see the guests talk about fighting in some regard from the very beginning. Episode 890 has the viewer hearing how many fighters are bland now-a-days before later showing actaul Boxing/UFC fights and installment 893 desrcibes the shocking Rhonda Rousey loss, showing the fight to viewers.  
+-Both see the guests talk about fighting in some regard from the very beginning. Episode 890 has the viewer hearing how many fighters are bland now-a-days before later showing actual Boxing/UFC fights, and installment 893 describes the shocking Rhonda Rousey loss, showing the fight to viewers.  
 
 -Yet both podcasts show a tendency to get off topic, as a friends may do, such as Rogan talking about fighters' drug use at the end of 893.
 
 ####Wrap-Up
--Joe ends each podcast by stating his guests by name and saying, "thank you."
+-Joe ends each podcast by stating his guests again by name and saying, "thank you."
 
 -He then states when his show will be back and who his next guest(s) will be.
 
