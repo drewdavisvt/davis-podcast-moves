@@ -35,6 +35,8 @@ Brendan Schaub and Eddie Bravo are the guests on each of these episodes (though 
 
 -Yet both podcasts show a tendency to get off topic, as a friends together may do, such as Rogan talking about fighters' drug use at the end of 893.
 
+-Getting off topic, is part of what makes Rogan's podcast so entertaining. He is a personality, so one know expects some fighting talk. However, one could also see the host's comedy, past jobs, etc. come up too.  
+
 ####Wrap-Up
 -Joe ends each podcast by stating his guests again by name and saying, "thank you."
 
